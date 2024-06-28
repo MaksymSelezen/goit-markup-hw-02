@@ -79,6 +79,10 @@ a {
   background-color: #4d5ae5;
 }
 
+.main-btn {
+  cursor: pointer;
+}
+
 .main-btn:hover,
 .main-btn:focus {
   background-color: #404bbf;
